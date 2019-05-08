@@ -1,0 +1,18 @@
+ul#listItem {
+  background-color: #00b67a;
+  list-style: none;
+  margin-left: 25px;
+  list-style-type: disc; }
+  ul#listItem .bullet {
+    font-size: 50px; }
+
+hr#liner {
+  height: 1px;
+  color: blue;
+  background-color: red;
+  border: none; }
+
+body {
+  background-color: #00b67a; }
+
+/*# sourceMappingURL=program.css.map */

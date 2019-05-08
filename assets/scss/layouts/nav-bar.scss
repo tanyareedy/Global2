@@ -1,0 +1,19 @@
+#headerMenu{
+  margin-bottom: -5px;
+
+}
+
+img#logo{
+  width: 50px;
+  height: 30px;
+}
+
+
+
+#menuItems{
+  .active{
+    border-top: #00b67a solid thick;
+    border-radius: 5px;
+  }
+}
+

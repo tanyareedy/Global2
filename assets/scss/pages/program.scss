@@ -1,0 +1,129 @@
+$green: #00b67a;
+p,li{
+  font-size: 18px;
+}
+#listItem {
+
+
+  .bullet {
+    font-size: 50px;
+  }
+
+  list-style: none;
+  margin-left: 25px;
+
+  list-style-type: disc;
+}
+
+
+ul#listItem{
+  margin-left: -40px;
+}
+
+#liner {
+  .nav-link {
+    color: $green;
+  }
+
+  i {
+    color: $green;
+  }
+
+}
+
+#sideCountry {
+
+  img {
+    width: 1000px;
+    height: 800px
+  }
+}
+
+.cyprusHeader {
+  background-image: url("/assets/img/background/location-Cyprus.jpg");
+  background-color: #cccccc; /* Used if the image is unavailable */
+  padding: 20px 0 20px 0;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.greeceHeader {
+   background-image: url("/assets/img/background/location-Greece.jpg");
+   background-color: #cccccc; /* Used if the image is unavailable */
+   padding: 20px 0 20px 0;
+   background-position: center; /* Center the image */
+   background-repeat: no-repeat; /* Do not repeat the image */
+   background-size: cover;
+ }
+.grenadaHeader {
+  background-image: url("/assets/img/background/location-Grenada.jpg");
+  background-color: #cccccc; /* Used if the image is unavailable */
+  padding: 20px 0 20px 0;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.canadaHeader {
+  background-image: url("/assets/img/background/location-Canada.jpg");
+  background-color: #cccccc; /* Used if the image is unavailable */
+  padding: 20px 0 20px 0;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.usaHeader {
+  background-image: url("/assets/img/background/location-USA.jpg");
+  background-color: #cccccc; /* Used if the image is unavailable */
+  padding: 20px 0 20px 0;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+
+#countryInfo{
+  border-radius: 30px;
+   opacity: 0.9;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+  }
+
+#countryInfo:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+  }
+
+section.bg-light {
+  background-color: #e2e4e7  !important;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+  color: #495057;
+  background-color: #dae0e5;
+  border-color: #dee2e6 #dee2e6 #fff;
+}
+
+section#advantage{
+  background-image: url("/assets/img/background/world-map.png");
+  background-color: white; /* Used if the image is unavailable */
+  //padding: 20px 0 20px 0;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+
+
+
+}
+
+
+
+ul#connectUs{
+  margin-left: -45px;
+}
+
+.btn-link{
+  color: $green;
+}
+.btn-link:hover{
+  color: $green;
+}
+

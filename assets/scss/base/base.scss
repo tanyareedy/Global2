@@ -1,0 +1,71 @@
+
+
+
+$dark: #000032;
+$blue: #00b67a;
+
+
+
+
+//this is you configuration scss
+$input-border-color: #584b4f !default;
+
+
+
+$padding: 30px;
+$borders: 15px;
+
+
+$tablets: 600px;
+$phone: 599px;
+
+//spacer variables here
+
+$spacer: 1rem !default;
+$spacers: () !default;
+
+$spacers: map-merge(
+                (
+                        0: 0,
+                        1: ($spacer * .25),
+                        2: ($spacer * .5),
+                        3: $spacer,
+                        4: ($spacer * 1.5),
+                        5: ($spacer * 3),
+                        6: ($spacer * 6)
+
+                ),
+                $spacers
+);
+
+
+@mixin small-phone {
+  @media (max-width: 450px) {@content;}
+}
+
+@mixin for-phone-only {
+  @media (max-width: 550px) { @content; }
+}
+
+@mixin for-tablet-only {
+  @media (max-width: 845px) { @content; }
+}
+
+
+@mixin for-tablet-portrait-up {
+  @media (min-width: 600px) { @content; }
+}
+@mixin for-tablet-landscape-up {
+  @media (min-width: 900px) { @content; }
+}
+
+
+@mixin for-desktop-up {
+  @media (min-width: 1200px) { @content; }
+}
+@mixin for-big-desktop-up {
+  @media (min-width: 1800px) {
+    @content;
+  }
+}
+
