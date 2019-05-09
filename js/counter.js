@@ -6,7 +6,7 @@ let OnlineCounter = {
 
     data: function () {
         return {
-            counter: 100
+            counter: 25
         };
     },
 

@@ -177,15 +177,14 @@
                     <div class="card-body">
                         <h1 class="centered">Canada</h1>
 
-                        <p><i class="fas fa-map-marked pr-2"></i>Eastern Mediterranean Island</p>
-                        <p><i class="fas fa-user pr-2"></i>European Union Citizenship</p>
+                        <p><i class="fas fa-map-marked pr-2"></i>North American country</p>
                         <p><i class="fas fa-money-bill-wave pr-2"></i>Property Investment</p>
 
 
 
 
 
-<div class="Blink" id="vueTarget">
+<div  id="vueTarget">
                         <small class="text-primary"><i class="far fa-eye px-2"></i><online-counter :min="3" :max="15"></online-counter> people are viewing this program
                         </small>
 </div>
@@ -209,11 +208,11 @@
                     <div class="card-body">
                         <h1 class="centered">Cyprus</h1>
 
-                        <p><i class="fas fa-map-marked pr-2"></i>Eastern Mediterranean Island</p>
+                        <p><i class="fas fa-map-marked pr-2"></i>Southern European Coast Country</p>
                         <p><i class="fas fa-user pr-2"></i>European Union Citizenship</p>
                         <p><i class="fas fa-money-bill-wave pr-2"></i>Property Investment</p>
 
-                        <div class="Blink" id="vueTarget2">
+                        <div  id="vueTarget2">
                             <small class="text-primary"><i class="far fa-eye px-2"></i><online-counter :min="3" :max="15"></online-counter> people are viewing this program
                             </small>
                         </div>
@@ -238,11 +237,11 @@
                     <div class="card-body">
                         <h1 class="centered">Greece</h1>
 
-                        <p><i class="fas fa-map-marked pr-2"></i>Eastern Mediterranean Island</p>
+                        <p><i class="fas fa-map-marked pr-2"></i>Southern European Coast Country</p>
                         <p><i class="fas fa-user pr-2"></i>European Union Citizenship</p>
                         <p><i class="fas fa-money-bill-wave pr-2"></i>Property Investment</p>
 
-                        <div class="Blink" id="vueTarget3">
+                        <div  id="vueTarget3">
                             <small class="text-primary"><i class="far fa-eye px-2"></i><online-counter :min="3" :max="15"></online-counter> people are viewing this program
                             </small>
                         </div>
@@ -270,7 +269,7 @@
                         <p><i class="fas fa-user pr-2"></i>European Union Citizenship</p>
                         <p><i class="fas fa-money-bill-wave pr-2"></i>Property Investment</p>
 
-                        <div class="Blink" id="vueTarget4">
+                        <div  id="vueTarget4">
                             <small class="text-primary"><i class="far fa-eye px-2"></i><online-counter :min="3" :max="15"></online-counter> people are viewing this program
                             </small>
                         </div>
@@ -296,11 +295,10 @@
                     <div class="card-body">
                         <h1 class="centered">USA</h1>
 
-                        <p><i class="fas fa-map-marked pr-2"></i>Eastern Mediterranean Island</p>
-                        <p><i class="fas fa-user pr-2"></i>European Union Citizenship</p>
+                        <p><i class="fas fa-map-marked pr-2"></i>North America</p>
                         <p><i class="fas fa-money-bill-wave pr-2"></i>Property Investment</p>
 
-                        <div class="Blink" id="vueTarget5">
+                        <div id="vueTarget5">
                             <small class="text-primary"><i class="far fa-eye px-2"></i><online-counter :min="3" :max="15"></online-counter> people are viewing this program
                             </small>
                         </div>
