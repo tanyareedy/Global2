@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Cyprus|Globalhorizon</title>
+    <title>Cyprus | Globalhorizon</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">

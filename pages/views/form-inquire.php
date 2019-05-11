@@ -42,12 +42,12 @@
 
                 <label class="pt-2" for="exampleFormControlSelect1"><strong> Choose Program:</strong></label>
                 <select
-                        class="form-control input-group-lg py-2 rounded"
+                        class="form-control input-group-lg py-4 rounded"
                         name="program"
                         id="exampleFormControlSelect1"
                         required>
 
-                    <option value="Cyprus">Cyprus</option>
+                    <option class="py-3" value="Cyprus">Cyprus</option>
                     <option value="Canada">Canada</option>
                     <option value="Greece">Greece</option>
                     <option value="Grenada">Grenada</option>

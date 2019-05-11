@@ -1,36 +1,35 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Canada | Globalhorizon</title>
+    <title>Malta | Globalhorizon</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <?php include('../pages/layout/header.php'); ?>
-    <?php $page = 'program'; ?>
+    <?php $page = 'canada'; ?>
 
 
 </head>
 <body>
 <?php include('../pages/layout/nav-bar.php'); ?>
 
-<section class="canadaHeader py-6">
+<section class="maltaHeader py-6">
     <div class="container">
         <div class="col-md-10 bg-dark px-lg-6 py-3" id="countryInfo">
-            <h1 class="py-2 text-white rounded">Canada</h1>
+            <h1 class="py-2 text-white rounded">Malta</h1>
             <p class="text-white">
-                Canada is a country in the northern part of North America. Its ten provinces and three territories
-                extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million
-                square kilometres, making it the world's second-largest country by total area.
+                The Republic of Malta is a Southern European island country consisting of an archipelago in the
+                Mediterranean Sea. It lies to the south of Italy, east of Tunisia, and north of Libya. The country
+                covers just over 316 km2 making it one of the world's smallest peaceful countries. Malta has two
+                official languages, which are Maltese and English.
             </p>
             <div class="text-white">
-                <p><i class="fas fa-map-marked pr-2"></i>
+                <p><i class="fas fa-map-marked pr-2"></i>Southern Mediterranean Island</p>
 
-                    North American Country</p>
-
-                <p><i class="fas fa-money-bill-wave pr-2"></i>
-                    Donation or Property Investment</p>
+                <p><i class="fas fa-money-bill-wave pr-2"></i> European Union Citizenship</p>
+                <p><i class="fas fa-money-bill-wave pr-2"></i>Property Investment</p>
             </div>
             <button class="btn btn-lg bg-primary text-white">Get started</button>
         </div>
@@ -43,15 +42,22 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3 col-sm-12">
-                <h1>About Canada </h1>
+                <h1>About <br> Malta </h1>
             </div>
             <div class="col-md-9 col-sm-12">
                 <p class="text-justify">
 
-                    As the second largest country on earth, Canada covers an area of 10 million square kilometres. This
-                    includes a combination of: high mountains, different type of forests, prairie grasslands and arctic
-                    tundra, all in between three ocean borders. Canada is the ideal place where you can enjoy chilly
-                    winters and heated summers. This program requires a minimum investment of CAD $1,200,000.
+                    The Republic of Malta is a historic southern European nation located in the Mediterranean Sea. For
+                    what Malta lacks in size, it more than makes up with culture, heritage and beauty. Nestled among its
+                    rugged coves and rolling hills are chic harbour towns, ancient temples and historic cathedrals. The
+                    island comes to life in the summertime, with a calendar crammed with carnivals and festivals hosted
+                    all around its scenic coastline.
+
+                    Malta is one of a handful of European countries offering a citizenship by investment programme that
+                    is both highly respected and expedient. Known as the Malta Individual Investor Programme (Malta
+                    IIP), the Programme is the first European citizenship by investment programme to be recognized by
+                    the European Commission. The Malta IIP was designed for ultra-high net-worth individuals wishing to
+                    obtain full rights of citizenship in an EU country.
 
 
                 </p>
@@ -63,8 +69,9 @@
                 <h1> Program Information</h1>
                 <p>
 
-                    Established in 1986, this program is designed to assist business individuals and their families to
-                    enter the country as permanent residents.
+                    The Malta IIP requires applicants to make a contribution to the National Development and Social
+                    Fund, an investment in Government-approved financial instruments to be held for at least five years,
+                    and a property purchase or rental to be maintained for five years.
                 </p>
             </div>
             <div class="col-md-9 col-sm-12 text-justify">
@@ -72,15 +79,18 @@
                 <ul id="listItem">
 
 
-                    <li class="py-3"><p>You and your immediate family can obtain Canadian PR by investing CAD $1,200,000
-                            for five years with the government of Canada. Financing options are also available.</p></li>
-                    <li class="py-3"><p>Applicants to this program must intend to reside in Quebec.</p></li>
+                    <li class="py-3"><p>Applicants must make a minimum contribution of €650,000, plus a €25,000
+                            contribution for any spouse and minor children, and a €50,000 contribution for any dependent
+                            children aged between 18 and 26 and any dependent parents above 55 years of age.</p></li>
+                    <li class="py-3"><p>Applicants must also commit to retaining a residence in Malta for a period of at
+                            least five years, either through the purchase of a property, for which the minimum value
+                            must exceed €350,000, or through the leasing of a property, for which the minimum annual
+                            rent must exceed €16,000.</p></li>
                     <li class="py-3"><p>
-                            The investment is government guaranteed, assuring that your CAD $1,200,000 will be
-                            reimbursed in full at the end of five years.
+                            Finally, applicants must make an investment of €150,000 in Government-approved financial
+                            instruments, such as bonds or stocks, which must be maintained for a minimum period of 5
+                            years.
                         </p></li>
-                    <li class="py-3"><p>
-                            No interest is paid on your investment.</p></li>
 
 
                 </ul>
@@ -125,34 +135,35 @@
                                             </h4>
 
                                             <p>
-                                                Canada is one of the safest countries to live in and offers a high
-                                                standard of living for those with families and businesses. </p>
+                                                Life in stable, well-respected, and neutral country that belongs to the
+                                                Commonwealth of Nations, and whose political system is based on the
+                                                British parliamentary system </p>
                                         </div>
                                         <div class="col-sm-6  col-md-6 py-2">
-                                            <h4><i class="far fa-stop-circle px-2"></i> Worldwide Groups
+                                            <h4><i class="far fa-stop-circle px-2"></i> Low Tax Regime
                                             </h4>
 
                                             <p>
-                                                Canada is part of the Group of Seven (G7), North America Free Trade
-                                                Agreement (NAFTA) and other groups that focus on providing free trade,
-                                                and other policies to other member countries.
+                                                A low tax regime, with no net worth, gift, and inheritance tax.
+                                                Moreover, citizens of Malta who are not domiciled in Malta are taxable
+                                                on a remittance basis only
                                             </p>
                                         </div>
                                         <div class="col-sm-6  col-md-6 py-2">
-                                            <h4><i class="far fa-stop-circle px-2"></i> Healthcare</h4>
+                                            <h4><i class="far fa-stop-circle px-2"></i>Dual citizenship</h4>
 
                                             <p>
-                                                Canadas publically funded health care system (Medicare) is known for
-                                                having one of the best healthcare systems in the world.
+                                                The opportunity to maintain dual citizenship if so desired
                                             </p>
                                         </div>
                                         <div class="col-sm-4  col-md-6 py-2">
-                                            <h4><i class="far fa-stop-circle px-2"></i> Education
+                                            <h4><i class="far fa-stop-circle px-2"></i> Visa-Free Travel
                                             </h4>
 
                                             <p>
-                                                Along with Canada’s healthcare, their education is also ranked amongst
-                                                the most renowned and respected in the world.
+                                                Visa-free travel to more than 166 countries and territories, including
+                                                the United States, Canada, the entire European Union, and the Schengen
+                                                Area
                                             </p>
                                         </div>
                                     </div>
@@ -163,15 +174,20 @@
                                             <h2>Requirement</h2>
                                             <ol id="requirment">
 
-                                                <li class="py-3"> Applicant must intend to reside in Quebec.</li>
-                                                <li class="py-3"> Minimum net worth: CAD $2 million, legally obtained.
+                                                <li class="py-3">The applicants must travel to Malta to apply for legal
+                                                    residence and acquire a residency card.
                                                 </li>
-                                                <li class="py-3"> Two years of suitable management or business
-                                                    experience within the five years preceding the application.
+                                                <li class="py-3">Within 4 months is necessary to show a copy of your
+                                                    property contract (lease or purchase), confirmation bonds/stocks
+                                                    acquired, and proof that suitable medical coverage is in place.
+                                                    GlobalHorizon prepare property purchase documents to complete on
+                                                    purchase.
+                                                    Property purchase funds and taxes transferred.
                                                 </li>
-                                                <li class="py-3"> Investment: CAD $1,200,000 for 5 years, Government
-                                                    guaranteed 0% interest, or financing options are available.
+                                                <li class="py-3"> make an investment of €150,000 in Government-approved
+                                                    financial instruments, such as bonds or stocks,
                                                 </li>
+
                                                 <li class="py-3"> Medical examination and security background check.
                                                 </li>
 
@@ -179,7 +195,8 @@
                                             </ol>
                                         </div>
                                         <div class="col-md-6">
-                                            <img class="img-fluid" src="/assets/img/background/location-Cyprus.jpg" alt="canada">
+                                            <img class="img-fluid" src="/assets/img/background/location-Malta.jpg"
+                                                 alt="canada">
                                         </div>
 
                                         <!--                                        acoordion start-->
@@ -194,7 +211,7 @@
                                                         <button class="btn btn-link" data-toggle="collapse"
                                                                 data-target="#collapseOne" aria-expanded="true"
                                                                 aria-controls="collapseOne">
-                                                            CAD $1,200,000
+                                                            The National Development and Social Fund
 
 
                                                         </button>
@@ -204,40 +221,56 @@
                                                 <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
                                                      data-parent="#accordion">
                                                     <div class="card-body">
-                                                        You may choose to make a government-guaranteed investment of CAD
-                                                        $1,200,000 of your own funds with the government of Canada.
-                                                        These funds are then kept with the government for a period of
-                                                        five years, after which they are returned to you in full with 0%
-                                                        interest.
+                                                        Applicants must make a minimum contribution of €650,000, plus a
+                                                        €25,000 contribution for any spouse and minor children, and a
+                                                        €50,000 contribution for any dependent children aged between 18
+                                                        and 26 and any dependent parents above 55 years of age.
 
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="card">
-                                                <div class="card-header" id="headingOne">
+                                                <div class="card-header" id="headingTwo">
                                                     <h5 class="mb-0">
                                                         <button class="btn btn-link" data-toggle="collapse"
-                                                                data-target="#collapseOne" aria-expanded="true"
-                                                                aria-controls="collapseOne">
-                                                            Financing option (with upfront fee) $350,000
-
+                                                                data-target="#collapseTwo" aria-expanded="true"
+                                                                aria-controls="collapseTwo">
+                                                            Real Estate
 
                                                         </button>
                                                     </h5>
                                                 </div>
 
-                                                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                                                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
                                                      data-parent="#accordion">
                                                     <div class="card-body">
-                                                        The Quebec Investor program permits applicants to finance the
-                                                        bulk of their investment through designated firms and banks.
-                                                        Typically, the financing schemes require a down payment before
-                                                        the bank loans the balance up to $1.2 million. The typical
-                                                        financing fee is $350,000 which is paid upfront and
-                                                        non-refundable, leaving the total outlay from the investor at
-                                                        $350,000.
+                                                        Applicants must also commit to retaining a residence in Malta
+                                                        for a period of at least five years, either through the purchase
+                                                        of a property, for which the minimum value must exceed €350,000,
+                                                        or through the leasing of a property, for which the minimum
+                                                        annual rent must exceed €16,000.
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-header" id="headingThree">
+                                                    <h5 class="mb-0">
+                                                        <button class="btn btn-link" data-toggle="collapse"
+                                                                data-target="#collapseThree" aria-expanded="true"
+                                                                aria-controls="collapseThree">
+                                                            Government-Approved Financial Instruments
 
+                                                        </button>
+                                                    </h5>
+                                                </div>
 
+                                                <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                                     data-parent="#accordion">
+                                                    <div class="card-body">
+                                                        Finally, applicants must make an investment of €150,000 in
+                                                        Government-approved financial instruments, such as bonds or
+                                                        stocks, which must be maintained for a minimum period of 5
+                                                        years.
                                                     </div>
                                                 </div>
                                             </div>

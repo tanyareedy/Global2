@@ -39,6 +39,15 @@ ul#listItem{
   }
 }
 
+.canadaHeader {
+  background-image: url("/assets/img/background/location-Canada.jpg");
+  background-color: #cccccc; /* Used if the image is unavailable */
+  padding: 20px 0 20px 0;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
 .cyprusHeader {
   background-image: url("/assets/img/background/location-Cyprus.jpg");
   background-color: #cccccc; /* Used if the image is unavailable */
@@ -63,14 +72,16 @@ ul#listItem{
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
 }
-.canadaHeader {
-  background-image: url("/assets/img/background/location-Canada.jpg");
+.maltaHeader {
+  background-image: url("/assets/img/background/location-Malta.jpg");
   background-color: #cccccc; /* Used if the image is unavailable */
   padding: 20px 0 20px 0;
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
 }
+
+
 .usaHeader {
   background-image: url("/assets/img/background/location-USA.jpg");
   background-color: #cccccc; /* Used if the image is unavailable */

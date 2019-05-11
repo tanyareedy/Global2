@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>welcome</title>
+    <title>Program | Globalhorizon</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -21,7 +21,7 @@
 <!--select a program-->
 
 
-<section class="bg-white py-6">
+<section class="bg-white pt-6">
     <h1 class="py-3 text-center">Select A Program</h1>
     <div class="container">
         <div class="row">
@@ -32,12 +32,17 @@
                     <div class="card-body">
                         <h1 class="centered">Canada</h1>
 
-                        <p><i class="fas fa-map-marked pr-2"></i>Eastern Mediterranean Island</p>
-                        <p><i class="fas fa-user pr-2"></i>European Union Citizenship</p>
+                        <p><i class="fas fa-map-marked pr-2"></i>North American Country</p>
                         <p><i class="fas fa-money-bill-wave pr-2"></i>Property Investment</p>
 
-                        <small class="text-muted"><i class="far fa-eye px-2"></i>8 people are viewing this program
-                        </small>
+
+
+
+
+                        <div  id="vueTarget">
+                            <small class="text-primary"><i class="far fa-eye px-2"></i><online-counter :min="3" :max="15"></online-counter> people are viewing this program
+                            </small>
+                        </div>
                         <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group mt-3">
 
@@ -58,12 +63,15 @@
                     <div class="card-body">
                         <h1 class="centered">Cyprus</h1>
 
-                        <p><i class="fas fa-map-marked pr-2"></i>Eastern Mediterranean Island</p>
+                        <p><i class="fas fa-map-marked pr-2"></i>Southern European Coast Country</p>
                         <p><i class="fas fa-user pr-2"></i>European Union Citizenship</p>
                         <p><i class="fas fa-money-bill-wave pr-2"></i>Property Investment</p>
 
-                        <small class="text-muted"><i class="far fa-eye px-2"></i>8 people are viewing this program
-                        </small>
+                        <div  id="vueTarget2">
+                            <small class="text-primary"><i class="far fa-eye px-2"></i><online-counter :min="3" :max="15"></online-counter> people are viewing this program
+                            </small>
+                        </div>
+
                         <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group mt-3">
 
@@ -84,12 +92,14 @@
                     <div class="card-body">
                         <h1 class="centered">Greece</h1>
 
-                        <p><i class="fas fa-map-marked pr-2"></i>Eastern Mediterranean Island</p>
+                        <p><i class="fas fa-map-marked pr-2"></i>Southern European Coast Country</p>
                         <p><i class="fas fa-user pr-2"></i>European Union Citizenship</p>
                         <p><i class="fas fa-money-bill-wave pr-2"></i>Property Investment</p>
 
-                        <small class="text-muted"><i class="far fa-eye px-2"></i>8 people are viewing this program
-                        </small>
+                        <div  id="vueTarget3">
+                            <small class="text-primary"><i class="far fa-eye px-2"></i><online-counter :min="3" :max="15"></online-counter> people are viewing this program
+                            </small>
+                        </div>
                         <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group mt-3">
 
@@ -114,8 +124,12 @@
                         <p><i class="fas fa-user pr-2"></i>European Union Citizenship</p>
                         <p><i class="fas fa-money-bill-wave pr-2"></i>Property Investment</p>
 
-                        <small class="text-muted"><i class="far fa-eye px-2"></i>8 people are viewing this program
-                        </small>
+                        <div  id="vueTarget4">
+                            <small class="text-primary"><i class="far fa-eye px-2"></i><online-counter :min="3" :max="15"></online-counter> people are viewing this program
+                            </small>
+                        </div>
+
+
                         <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group mt-3">
 
@@ -136,12 +150,16 @@
                     <div class="card-body">
                         <h1 class="centered">USA</h1>
 
-                        <p><i class="fas fa-map-marked pr-2"></i>Eastern Mediterranean Island</p>
-                        <p><i class="fas fa-user pr-2"></i>European Union Citizenship</p>
+                        <p><i class="fas fa-map-marked pr-2"></i>North America</p>
                         <p><i class="fas fa-money-bill-wave pr-2"></i>Property Investment</p>
 
-                        <small class="text-muted"><i class="far fa-eye px-2"></i>8 people are viewing this program
-                        </small>
+                        <div id="vueTarget5">
+                            <small class="text-primary"><i class="far fa-eye px-2"></i><online-counter :min="3" :max="15"></online-counter> people are viewing this program
+                            </small>
+                        </div>
+
+
+
                         <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group mt-3">
 
@@ -160,6 +178,7 @@
         </div>
     </div>
 </section>
+
 
 <!--#######select a program-->
 

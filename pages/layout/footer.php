@@ -29,8 +29,8 @@
                 <p><a href="/programs/cyprus.php">Cyprus</a></p>
                 <p><a href="/programs/greece.php">Greece</a></p>
                 <p><a href="/programs/grenada.php">Grenada</a></p>
+                <p><a href="/programs/malta.php">Malta</a></p>
                 <p><a href="/programs/usa.php">U.S.A</a></p>
-                <p><a href="/program.php">Program</a></p>
 
 
             </div>
@@ -42,8 +42,8 @@
                 <h3 class="text-white"> Extra links</h3>
 
 
-                <p><a href="#">Cookies Policy</a></p>
-                <p><a href="#">Privacy Policy</a></p>
+                <p><a href="/about-Us.php">About GlobalHorizon</a></p>
+                <p><a href="#">Our Commitment</a></p>
                 <p><a href="#">Disclaimer</a></p>
                 <p><a href="#">Refund Policy</a></p>
                 <p><a href="#">Terms & Conditions</a></p>
@@ -74,7 +74,13 @@
 <script src="/js/vue.min.js"></script>
 <script src="/js/counter.js"></script>
 
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+    }
+</script>
 
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 
 

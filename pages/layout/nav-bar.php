@@ -1,20 +1,18 @@
-<div class="bg-dark py-0" id="headerMenu">
+<div class="bg-light py-0" id="headerMenu">
     <div class="container-fluid">
         <div class="row">
             <div class="col-6">
-
-
             </div>
             <div class="col-lg-6  col-md-12 col-sm-12">
                 <p class="text-primary text-xs-center float-lg-left ">Email: info@globalhorizon-cis.com</p>
                 <p class="text-primary text-xs-center float-lg-right">Phone number: +123 456 789</p>
-
             </div>
         </div>
     </div>
 </div>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top ">
+
 
     <div class="float-left">
 
@@ -46,25 +44,33 @@
             } ?>">
                 <a class="nav-link" href="../../index.php">HOME</a>
             </li>
+
+
             <li class="nav-item dropdown px-md-2" <?php if ($page == 'program') {
                 echo 'active';
             } ?>">
+
+
             <a class="nav-link dropdown-toggle" href="/program.php" id="navbarDropdown" role="button"
                data-toggle="dropdown"
                aria-haspopup="true" aria-expanded="false">
                 PROGRAMS
             </a>
+
+
             <div id="dropdown">
 
                 <div class="dropdown-menu bg-dark" aria-labelledby="navbarDropdown">
 
 
+                    <a class="nav-link text-white " href="/programs/canada.php"> CANADA
+                    </a>
+
                     <a class="nav-link text-white " href="/programs/cyprus.php"> CYPRUS
                     </a>
 
 
-                    <a class="nav-link text-white " href="/programs/canada.php"> CANADA
-                    </a>
+
 
                     <a class="nav-link text-white" href="/programs/greece.php"> GREECE
                     </a>
@@ -73,7 +79,11 @@
 
                     </a>
 
-                    <a class="nav-link text-white" href="/programs/usa.php"> USA
+                    <a class="nav-link text-white" href="/programs/malta.php">MALTA
+
+                    </a>
+
+                    <a class="nav-link text-white" href="/programs/usa.php">USA
 
                     </a>
 
@@ -87,13 +97,21 @@
             } ?>">
                 <a class="nav-link" href="/press.php">PRESS </a>
             </li>
+
+            <li class="nav-item  px-md-2 <?php if ($page == 'about') {
+                echo 'active';
+            } ?>">
+                <a class="nav-link" href="/about-Us.php">ABOUT</a>
+            </li>
+
+
             <li class="nav-item  px-md-2 <?php if ($page == 'contact') {
                 echo 'active';
             } ?>">
                 <a class="nav-link" href="/contact.php">CONTACT </a>
             </li>
 
-            <a type="button" class="btn bg-primary btn-lg text-white rounded" href="tel:+1-800-555-5555"> <i class="fas fa-phone-volume fa-1x"></i>+123 456 789</a>
+            <div id="google_translate_element"></div>
 
         </ul>
     </div>

@@ -7,7 +7,7 @@
             <div class="container">
                 <div class="carousel-caption text-left">
                     <h1>Enjoy Life Without Borders</h1>
-                    <h4>Specializing in Second Citizenship & Permanent Residence programs.</h4>
+                    <h2>Specializing in Second Citizenship & Permanent Residence programs.</h2>
                     <p><a class="text-white btn btn-lg bg-primary" href="/program.php" role="button">Learn more</a></p>
                 </div>
             </div>
@@ -39,14 +39,14 @@
         <div class="container mt-0 py-0 no-gutters">
             <div class="row py-3">
                 <div class="col-md-9 col-sm-9">
-                    <h4 class="pt-2 text-white text-left pl-lg-5"><strong>
+                    <h4 class="pt-2 text-white text-left pl-lg-6"><strong>
                             Take The First Step Towards An Alternative Residency And Citizenship
                         </strong>
                     </h4>
                 </div>
 
 
-                <div class="col-md-3 pl-lg-6 col-sm-3">
+                <div class="col-md-3 pl-lg-6 col-sm-3 align-content-end">
                     <a class="btn btn-lg btn-outline-light" role="button" href="/program.php">Get Started</a>
 
                 </div>
@@ -177,7 +177,7 @@
                     <div class="card-body">
                         <h1 class="centered">Canada</h1>
 
-                        <p><i class="fas fa-map-marked pr-2"></i>North American country</p>
+                        <p><i class="fas fa-map-marked pr-2"></i>North American Country</p>
                         <p><i class="fas fa-money-bill-wave pr-2"></i>Property Investment</p>
 
 

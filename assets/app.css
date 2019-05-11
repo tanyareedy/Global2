@@ -117,6 +117,17 @@ ul#listItem {
   width: 1000px;
   height: 800px; }
 
+.canadaHeader {
+  background-image: url("/assets/img/background/location-Canada.jpg");
+  background-color: #cccccc;
+  /* Used if the image is unavailable */
+  padding: 20px 0 20px 0;
+  background-position: center;
+  /* Center the image */
+  background-repeat: no-repeat;
+  /* Do not repeat the image */
+  background-size: cover; }
+
 .cyprusHeader {
   background-image: url("/assets/img/background/location-Cyprus.jpg");
   background-color: #cccccc;
@@ -150,8 +161,8 @@ ul#listItem {
   /* Do not repeat the image */
   background-size: cover; }
 
-.canadaHeader {
-  background-image: url("/assets/img/background/location-Canada.jpg");
+.maltaHeader {
+  background-image: url("/assets/img/background/location-Malta.jpg");
   background-color: #cccccc;
   /* Used if the image is unavailable */
   padding: 20px 0 20px 0;
