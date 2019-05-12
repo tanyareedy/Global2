@@ -94,3 +94,14 @@ new Vue({
 });
 
 
+new Vue({
+    el: '#vueTarget6',
+    components: {
+        'online-counter': OnlineCounter
+    }
+});
+
+
+
+
+

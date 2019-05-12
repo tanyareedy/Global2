@@ -48,17 +48,14 @@
 <section class="container">
     <h1 class="pb-3 text-primary">Global Horizon Team</h1>
     <div class="row">
-        <div class="col-4">
-            <img class="img-fluid border-primary shadow" src="/assets/img/about/staff1.jpg">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet exercitationem illum qui sequi.
-                Cupiditate ea nemo non nostrum omnis quaerat?
-            <p>
+        <div class="col-md-6">
+            <img class="img-fluid shadow px-5" src="/assets/img/about/man0.jpg" style="height: 350px">
+            <h2>Eric Troupe</h2>
+
         </div>
-        <div class="col-4">
-            <img class="img-fluid" src="/assets/img/about/staff1.jpg">
-        </div>
-        <div class="col-4">
-            <img class="img-fluid" src="/assets/img/about/staff1.jpg">
+        <div class="col-md-6">
+            <img class="img-fluid shadow px-5" src="/assets/img/about/woman.jpg" style="height: 350px">
+            <h2>Bella Inglewood</h2>
         </div>
 
     </div>
@@ -68,7 +65,7 @@
 <section class="container">
     <h1 class="text-primary">Clients</h1>
     <div class="row">
-        <div class="col-6">
+        <div class="col-md-6">
             <p class="text-justify">
                 At Global Horizon we cherish our clients, and the trust they place in us to make their citizenship and
                 residence dreams come true. No client is the same, and whether they are successful businessmen and
@@ -82,7 +79,7 @@
                 hope to share in the happiness of you obtaining your second citizenship or residence.
             </p>
         </div>
-        <div class="col-6">
+        <div class="col-md-6">
             <img class="img-fluid" src="assets/img/about/clients.png"
         </div>
     </div>
@@ -95,10 +92,10 @@
 
     <div class="row">
 
-        <div class="col-6">
+        <div class="col-md-6">
             <img class="img-fluid" src="assets/img/about/government.jpg">
         </div>
-        <div class="col-6">
+        <div class="col-md-6">
 
             <p class="text-justify"> Citizenship and residence by investment programmes are an exciting way for global individuals to bring
                 their talent, skills, and experience to nations other than those in which they were born. At Global
@@ -112,11 +109,11 @@
 </section>
 
 <!--Partners-->
-<section class="container pt-3">
+<section class="container py-5">
     <h1 class="text-primary">Partners
     </h1>
     <div class="row">
-        <div class="col-6">
+        <div class="col-md-6">
 
             <p class="text-justify">
                 Global horizon collaborates with numerous businesses and professionals, with the goal of making second
@@ -135,7 +132,7 @@
                 business persons and their clients.
             </p>
         </div>
-        <div class="col-6">
+        <div class="col-md-6">
             <img class="img-fluid" src="assets/img/about/partners.jpg">
 
         </div>

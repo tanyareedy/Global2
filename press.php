@@ -30,6 +30,17 @@
     </div>
 </section>
 
+<section class="container pt-5">
+    <div class="row">
+        <div class="col-12">
+            <p class="font-italic">
+                GlobalHorizon Business development executive Bella Inglewood said: “The results indicate that people are looking now more than ever for certainty and security amid a landscape of economic and political change.” Inglewood believes the uncertainty created by the general election result could reinvigorate the conversation around second citizenship: “Brexit has clearly had an influence on the UK’s views on citizenship and I believe the current political context stimulates similar discussion. It has always been our advice however to act preventively in the face of potential uncertainty: second citizenship is an insurance policy against socio-political change.”</p>
+            <h3>culred from <a href="https://freesignals.club/2019/05/09/citizenship-residency-by-investment-programs-a-must-read/"> freesignals.club</a><br><small>May 9, 2019</small></h3>
+
+        </div>
+    </div>
+
+</section>
 
 <section class="container py-5">
     <h1 class="text-center">Trustpilot rates Globalhorizon as excellent</h1>
@@ -42,7 +53,7 @@
             <div class="col-sm-12 px-sm-3 mb-4 py-sm-3 col-lg-5 border shadow-sm bg-white">
                 <div class="row">
                     <div class="col-3">
-                        <img class="profilePicture" src="assets/img/woman.jpg" alt="image">
+                        <img class="profilePicture" src="assets/img/about/testify.jpg" alt="image">
                     </div>
                     <div class="col-9">
                         <p class="mb-0">George TePoono</p>
@@ -68,7 +79,7 @@
 
                 <div class="row">
                     <div class="col-3">
-                        <img class="profilePicture" src="assets/img/woman.jpg" alt="image">
+                        <img class="profilePicture" src="assets/img/about/user.png" alt="image">
                     </div>
                     <div class="col-9">
                         <p class="mb-0">Brandon Roberts</p>
@@ -100,7 +111,7 @@
             <div class="col-sm-12 py-sm-3 col-lg-5 border shadow-sm bg-white">
                 <div class="row">
                     <div class="col-3">
-                        <img class="profilePicture" src="assets/img/woman.jpg" alt="image">
+                        <img class="profilePicture" src="assets/img/about/sun.jpg" alt="image">
                     </div>
                     <div class="col-9">
                         <p class="mb-0">Hallet Legal Group LLC</p>

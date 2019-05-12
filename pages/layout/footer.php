@@ -42,11 +42,11 @@
                 <h3 class="text-white"> Extra links</h3>
 
 
+                <p><a href="/program.php">Programs</a></p>
                 <p><a href="/about-Us.php">About GlobalHorizon</a></p>
-                <p><a href="#">Our Commitment</a></p>
-                <p><a href="#">Disclaimer</a></p>
-                <p><a href="#">Refund Policy</a></p>
-                <p><a href="#">Terms & Conditions</a></p>
+
+
+                <p><a href="/privacy-statement.php">Privacy Statement</a></p>
 
 
             </div>
@@ -83,6 +83,19 @@
 <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+        s1.async=true;
+        s1.src='https://embed.tawk.to/5cd7ca652846b90c57ae130a/default';
+        s1.charset='UTF-8';
+        s1.setAttribute('crossorigin','*');
+        s0.parentNode.insertBefore(s1,s0);
+    })();
+</script>
+<!--End of Tawk.to Script-->
 
 
 

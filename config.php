@@ -1,8 +1,8 @@
 <?php
 $companyName = "Global  Horizon";
 $companyEmail = " info@globalhorizon-cis.com";
-$companyTel = " +123 222 333 444";
-$companyAddress = "  Some where on planet earth";
+$companyTel = " +1 705-733-4644";
+$companyAddress = " 57 Adelaide St, Barrie, ON L4N 3T4, Canada";
 
 
 //die(print_r($_SERVER));
