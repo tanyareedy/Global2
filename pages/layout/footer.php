@@ -1,16 +1,14 @@
 <footer class="bg-dark py-5 px-3">
 
 
+
+
     <section id="footerItems">
 <!--        contact links-->
         <div class="row mt-5">
             <div class="col-md-4 pl-lg-5">
                 <img src="/assets/img/logo.png" alt="logo"
                      style="width:250px; height: 60px;">
-
-
-
-
                 <?php
                 echo "<p class='text-white'> <i class=\"fas fa-envelope fa-1x\" id=\"footer-icon\"></i>" . $companyEmail . "</p>";
                 echo "<p class='text-white'> <i class=\"fas fa-phone fa-1x\" id=\"footer-icon\"></i>" . $companyTel . "</p>";

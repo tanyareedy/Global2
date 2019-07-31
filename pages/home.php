@@ -3,7 +3,7 @@
 
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img class="img-fluid first-slide" src="/assets/img/background/location-USA.jpg" alt="First slide" si>
+            <img class="img-fluid first-slide" src="/assets/img/background/location-USA.jpg" alt="First slide">
             <div class="container">
                 <div class="carousel-caption text-left">
                     <h1>Enjoy Life Without Borders</h1>

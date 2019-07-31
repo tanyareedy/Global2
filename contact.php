@@ -49,8 +49,8 @@
 
                 <?php include('pages/views/form-contact.php'); ?>
             </div>
-            <div class="col-md-1"></div>
-            <div class="col-md-5">
+
+            <div class="col-md-5 offset-md-1">
                 <h1>Connect With Our International Experts</h1>
 
                 <ul id="connectUs">

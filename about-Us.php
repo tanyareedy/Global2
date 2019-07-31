@@ -16,7 +16,7 @@
 <?php include('pages/layout/nav-bar.php'); ?>
 
 <!--about global horizon-->
-<section class="pt-5">
+<div class="pt-5">
     <div class="container py-4">
         <h1 class="text-primary">About Global Horizon</h1>
 
@@ -42,10 +42,10 @@
             </div>
         </div>
     </div>
-</section>
+</div>
 
 <!--global horizon team-->
-<section class="container">
+<div class="container">
     <h1 class="pb-3 text-primary">Global Horizon Team</h1>
     <div class="row">
         <div class="col-md-6">
@@ -59,10 +59,10 @@
         </div>
 
     </div>
-</section>
+</div>
 
 <!--clients-->
-<section class="container">
+<div class="container">
     <h1 class="text-primary">Clients</h1>
     <div class="row">
         <div class="col-md-6">
@@ -83,11 +83,10 @@
             <img class="img-fluid" src="assets/img/about/clients.png"
         </div>
     </div>
-</section>
-
+</div>
 
 <!--government-->
-<section class="container">
+<div class="container">
     <h1 class="text-primary">Government</h1>
 
     <div class="row">
@@ -106,10 +105,10 @@
 
         </div>
     </div>
-</section>
+</div>
 
 <!--Partners-->
-<section class="container py-5">
+<div class="container py-5">
     <h1 class="text-primary">Partners
     </h1>
     <div class="row">
@@ -137,7 +136,7 @@
 
         </div>
     </div>
-</section>
+</div>
 
 
 <?php include('pages/layout/footer.php'); ?>

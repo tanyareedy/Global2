@@ -1,5 +1,5 @@
 <div id="heroContent">
-    <form class="bg-white shadow p-3 rounded" id="applyForm" action="/controllers/process.php"
+    <form class="bg-white shadow p-3 rounded" id="applyForm" action="/controllers/data.php"
           method="post">
         <div class="form-row">
             <div class="form-group col-md-12">
